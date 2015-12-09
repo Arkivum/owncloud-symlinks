@@ -1,0 +1,1 @@
+curl -k -u jeremy:password -X POST https://jeremythings.co.uk:444/owncloud/index.php/apps/symlinks/api/0.1/symlinks -d source="/Arkivum/project1/file3.txt" -d link="/Arkivum-links/project1-public/file3.txt"

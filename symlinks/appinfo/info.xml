@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>symlinks</id>
+    <name>Sym Links</name>
+    <description>Symlinks</description>
+    <licence>AGPL</licence>
+    <author>Arkivum Limited</author>
+    <version>0.0.1</version>
+    <namespace>SymLinks</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8" />
+    </dependencies>
+</info>
